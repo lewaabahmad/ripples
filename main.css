@@ -1,0 +1,11 @@
+body {
+  padding-bottom: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.ripple {
+  border: 5px solid navy;
+  border-radius: 100%;
+  position: absolute;
+}
